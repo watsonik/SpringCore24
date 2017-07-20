@@ -1,4 +1,4 @@
-package com.epam.spring.com.epam.spring.core;
+package com.epam.spring.core;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
