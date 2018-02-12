@@ -10,7 +10,7 @@
 	<name>com.epam.spring.core</name>
 	<url>http://maven.apache.org</url>
 
-	<properties>
+	<properties> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring.ver>4.3.9.RELEASE</spring.ver>
 	</properties>
